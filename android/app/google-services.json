@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "713231509322",
+    "firebase_url": "https://cncdb-2f4d0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cncdb-2f4d0",
+    "storage_bucket": "cncdb-2f4d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713231509322:android:c62d9dbf9ba0474df3c3b3",
+        "android_client_info": {
+          "package_name": "com.example.test_realtime_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0dBZLv0nX_vTFMxmTmtri3dmiEgKIHNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
